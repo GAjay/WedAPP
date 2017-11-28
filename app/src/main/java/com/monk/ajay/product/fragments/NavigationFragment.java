@@ -1,4 +1,4 @@
-package com.example.ajay.livevideos.fragments;
+package com.monk.ajay.product.fragments;
 
 /**
  * A class for TODO add Class defination.
@@ -7,5 +7,5 @@ package com.example.ajay.livevideos.fragments;
  *         Copyright (c) 2017 livetechmonk. All right reserved.
  */
 
-public class VenueFragment {
+public class NavigationFragment {
 }

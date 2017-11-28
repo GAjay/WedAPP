@@ -1,4 +1,4 @@
-package com.example.ajay.livevideos.activities;
+package com.monk.ajay.product.activities;
 
 import android.support.v7.app.AppCompatActivity;
 

@@ -1,11 +1,11 @@
-package com.example.ajay.livevideos.activities;
+package com.monk.ajay.product.activities;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
 
-import com.example.ajay.livevideos.R;
+import com.monk.ajay.product.R;
 
 /**
  * A class for TODO add Class definition.
